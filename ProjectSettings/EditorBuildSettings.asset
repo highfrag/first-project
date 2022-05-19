@@ -48,12 +48,9 @@ EditorBuildSettings:
     path: 
     guid: a341347ecfade124f817cac8ea56a209
   - enabled: 1
-    path: 
-    guid: c9d14b1fbb10eb24fb4983130b81badd
+    path: Assets/NewScene.unity
+    guid: 1571b4cf3e1db9b44a628d1e5bfcea88
   - enabled: 1
-    path: Assets/Niveau 1.unity
-    guid: 919f20ef4825dfe4e9121a628cae6c30
-  - enabled: 1
-    path: Assets/Niveau 3.unity
-    guid: 4d65c921dc495ab4a8619098ab2fc0a7
+    path: Assets/niveau 2.unity
+    guid: ac01cb961f2b70946add6ace47b40f48
   m_configObjects: {}

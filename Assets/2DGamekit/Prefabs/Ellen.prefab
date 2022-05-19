@@ -348,8 +348,8 @@ MonoBehaviour:
     controllerButton: 3
     m_Enabled: 0
   RangedAttack:
-    key: 101
-    controllerButton: 10
+    key: 111
+    controllerButton: 0
     m_Enabled: 0
   Jump:
     key: 32
@@ -360,7 +360,7 @@ MonoBehaviour:
     negative: 113
     controllerAxis: 1
   Vertical:
-    positive: 122
+    positive: 119
     negative: 115
     controllerAxis: 2
   dataSettings:
